@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+#root {
+  width: 500px;
+  margin: 0 auto;
+  padding: 15px;
+  background: silver;
+  border-radius: 3px;
+}
